@@ -21,4 +21,3 @@ jobs:
           SYMBOL_VERSION: 2
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "True"
-          

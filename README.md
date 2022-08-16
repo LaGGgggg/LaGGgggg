@@ -25,6 +25,75 @@ My languages and tools:<br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LaGGgggg&theme=radical)](https://git.io/streak-stats)<br>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2031%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 362 Contributions in the Year 2022
+ > 
+> 📦 1.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
+🌆 Daytime    164 commits    ██████████████░░░░░░░░░░░   57.34% 
+🌃 Evening    97 commits     ████████░░░░░░░░░░░░░░░░░   33.92% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
+Tuesday      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
+Wednesday    50 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.48% 
+Thursday     24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.39% 
+Friday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
+Saturday     47 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.43% 
+Sunday       45 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.73%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Saratov
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   3 repos             █████████████████████████   100.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/LaGGgggg/LaGGgggg/main/charts/bar_graph.png) 
+
+
+ Last Updated on 16/08/2022 19:03:49 UTC
 <!--END_SECTION:waka-->
 
 ---
