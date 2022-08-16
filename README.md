@@ -24,7 +24,8 @@ My languages and tools:<br>
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LaGGgggg&theme=radical)](https://git.io/streak-stats)<br>
-[![LaGGgggg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LaGGgggg&last_30_days)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
