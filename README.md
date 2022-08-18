@@ -89,4 +89,9 @@ django and sql project   1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ---
 
+Future learn plans: 
+- Docker
+- Celery
+- Django rest framework
+
 📫 How to reach me: TulNik0@yandex.ru
