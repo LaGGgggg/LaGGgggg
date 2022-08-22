@@ -28,13 +28,13 @@ My languages and tools:<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LaGGgggg&theme=radical)](https://git.io/streak-stats)<br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 375 Contributions in the Year 2022
+> 🏆 376 Contributions in the Year 2022
  > 
 > 📦 1.6 kB Used in GitHub's Storage 
  > 
@@ -80,14 +80,14 @@ textmate                 27 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🐱‍💻 Projects: 
 NeedBuy                  9 hrs 8 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   74.9% 
 LaGGgggg                 1 hr 23 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.39% 
-Not main projects        1 hr 9 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.42% 
+Hobby projects           1 hr 9 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.42% 
 game_3_0                 30 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.11% 
 ask and answer           1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.18%
 
 ```
 
 
- Last Updated on 22/08/2022 16:17:54 UTC
+ Last Updated on 22/08/2022 18:48:23 UTC
 <!--END_SECTION:waka-->
 
 ---
