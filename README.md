@@ -28,7 +28,7 @@ My languages and tools:<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LaGGgggg&theme=radical)](https://git.io/streak-stats)<br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Thousand%20lines%20of%20code-blue)
 
@@ -87,7 +87,7 @@ django and sql project   1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 22/08/2022 15:27:41 UTC
+ Last Updated on 22/08/2022 15:33:55 UTC
 <!--END_SECTION:waka-->
 
 ---
