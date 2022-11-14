@@ -71,15 +71,15 @@ Sunday       38 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
 💬 Programming Languages: 
-Python                   19 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SkyLibrary               19 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 13/11/2022 18:46:38 UTC
+ Last Updated on 14/11/2022 18:48:51 UTC
 <!--END_SECTION:waka-->
 
 ---
