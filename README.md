@@ -8,32 +8,23 @@ I am a python backend/full stack django web developer, love learning new things 
 ---
 
 I have worked with:<br>
-<!-- languages -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="50px" height="50px">
-
-<!-- frameworks, packages -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="50px" height="50px">
-
-<!-- databases -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="50px" height="50px">
-
-<!-- IDE, text editors -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50px" height="50px">
-
-<!-- tools -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50px" height="50px">
