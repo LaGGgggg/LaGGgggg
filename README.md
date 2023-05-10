@@ -7,7 +7,7 @@ I am a python backend/full stack django web developer, love learning new things 
 
 ---
 
-My languages and tools:<br>
+I have worked with:<br>
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' width="50px" height="50px">
 <img src='https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg' width="50px" height="50px">
 <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' width="50px" height="50px">
@@ -17,6 +17,24 @@ My languages and tools:<br>
 <img src='https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg' width="50px" height="50px">
 <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' width="50px" height="50px">
 <img src='https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg' width="50px" height="50px">
+<img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg' width="50px" height="50px">
+<img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg' width="50px" height="50px">
+<img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg' width="50px" height="50px">
+<img src='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg' width="50px" height="50px">
+<img src='https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg' width="50px" height="50px">
+<img src='https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg' width="50px" height="50px">
+<img src='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg' width="50px" height="50px">
+<img src='https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg' width="50px" height="50px">
+<img src='https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg' width="50px" height="50px">
+<img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' width="50px" height="50px">
+<img src='https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg' width="50px" height="50px">
+<img src='https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg' width="50px" height="50px">
+<img src='https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg' width="50px" height="50px">
+<img src='https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg' width="50px" height="50px">
+<img src='https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg' width="50px" height="50px">
+<img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' width="50px" height="50px">
+<img src='https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg' width="50px" height="50px">
+
 <br>As well as:
 - ajax
 - gunicorn
@@ -90,8 +108,8 @@ Unknown Project          1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ---
 
 Future learn plans: 
-- Docker
 - Celery
 - Django rest framework
+- FastAPI
 
 📫 How to reach me: TulNik0@yandex.ru
