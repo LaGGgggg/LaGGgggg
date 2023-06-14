@@ -4,6 +4,7 @@
 ---
 
 I am a python backend/full stack django web developer, love learning new things and making cool websites!
+(I also made several telegram bots and a dozen different selenium parsers)
 
 ---
 
@@ -36,8 +37,11 @@ I have worked with:<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" width="50px" height="50px">
 
 <br>As well as:
-- ajax
+- docker compose
 - gunicorn
+- aiogram
+- YouTrack
+- ajax
 
 ---
 
