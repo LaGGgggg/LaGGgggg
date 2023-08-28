@@ -16,6 +16,7 @@ I have worked with:<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="50px" height="50px">
@@ -42,6 +43,7 @@ I have worked with:<br>
 - aiogram
 - YouTrack
 - ajax
+- celery
 
 ---
 
@@ -112,8 +114,6 @@ LightEditProject         0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ---
 
 Future learn plans: 
-- Celery
 - Django rest framework
-- FastAPI
 
 📫 How to reach me: TulNik0@yandex.ru
