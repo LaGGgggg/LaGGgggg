@@ -42,6 +42,8 @@ I have worked with:<br>
 - docker compose
 - gunicorn
 - aiogram
+- requests
+- BeautifulSoup4
 - YouTrack
 - ajax
 - celery
