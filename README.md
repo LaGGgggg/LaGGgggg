@@ -18,8 +18,10 @@ I have worked with:<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="50px" height="50px">
@@ -47,6 +49,10 @@ I have worked with:<br>
 - YouTrack
 - ajax
 - celery
+- Django rest framework
+- Let's Encrypt
+- certbot
+- ...
 
 ---
 
@@ -106,8 +112,5 @@ YAML                     32 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 ---
-
-Future learn plans: 
-- Django rest framework
 
 📫 How to reach me: TulNik0@yandex.ru
