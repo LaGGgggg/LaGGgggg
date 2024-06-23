@@ -19,6 +19,7 @@ I have worked with:<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50px" height="50px">
