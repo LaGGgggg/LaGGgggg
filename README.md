@@ -3,7 +3,7 @@
 
 ---
 
-I am a python backend/full stack django web developer, love learning new things and making cool websites!
+I am a python full stack django/vue.js web developer, love learning new things and making cool websites!
 (I also made several telegram bots and a dozen different selenium parsers)
 
 ---
