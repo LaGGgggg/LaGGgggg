@@ -56,6 +56,7 @@ I have worked with:<br>
 - Django rest framework
 - Let's Encrypt
 - certbot
+- Yandex Cloud
 - ...
 
 ---
