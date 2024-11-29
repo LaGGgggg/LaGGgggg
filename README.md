@@ -11,6 +11,8 @@ I am a python full stack django/vue.js web developer, love learning new things a
 I have worked with:<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50px" height="50px">
@@ -29,7 +31,8 @@ I have worked with:<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50px" height="50px">
