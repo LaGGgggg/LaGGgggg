@@ -66,15 +66,13 @@ I have worked with:<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LaGGgggg&theme=radical)](https://git.io/streak-stats)<br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C806%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C808%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 47.0 kB Used in GitHub's Storage 
- > 
-> 🏆 383 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -107,15 +105,15 @@ Sunday                   649 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
 💬 Programming Languages: 
-Markdown                 11 hrs 17 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.94 % 
-Python                   3 hrs 46 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.98 % 
-C++                      3 hrs 35 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.11 % 
-JSON                     1 hr 2 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.98 % 
-C                        41 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.30 % 
+Markdown                 8 hrs 57 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.04 % 
+Python                   3 hrs 46 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.67 % 
+Vue.js                   1 hr 47 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.78 % 
+C++                      1 hr 45 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.58 % 
+JSON                     1 hr 3 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.80 % 
 ```
 
 
- Last Updated on 20/05/2025 18:51:42 UTC
+ Last Updated on 21/05/2025 18:50:22 UTC
 <!--END_SECTION:waka-->
 
 ---
