@@ -1,58 +1,55 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"></p>
 
 ---
 
-I am a python backend/full stack django web developer, love learning new things and making cool websites!
-(I also made several telegram bots and a dozen different selenium parsers)
+I'm a full-stack Python web developer who loves learning and creating cool projects.
+I'm also experienced in leading teams, project management and DevOps.
+I've built complex web applications with different frameworks and technologies, Telegram bots, parsers, automation scripts
+and many other things.
+Feel free to ask me anything!
 
 ---
 
 I have worked with:<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" width="50px" height="50px">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,lua,php,html,css,md,latex,docker,nginx,rabbitmq,graphql,django,fastapi,vue,symfony,laravel,tailwind,redis,postgres,mysql,sqlite,ubuntu,neovim,pycharm,webstorm,vscode,visualstudio,clion,figma,heroku,cmake,jquery,bootstrap,selenium" />
+  </a>
+</p>
 
 <br>As well as:
 - docker compose
-- gunicorn
-- aiogram
-- requests
-- BeautifulSoup4
-- YouTrack
-- ajax
-- celery
+- GitHub actions
+- n8n
+- jwt
+- Python package managers: uv, poetry
+- Python linters: ruff, black
+- Python packages
+  - gunicorn
+  - aiogram
+  - celery
+  - requests
+  - BeautifulSoup4
+  - graphene-django
+  - boto3
+  - docx2python
+  - python-docx
+  - openpyxl
+  - pydantic
+  - mypy
+- Services
+  - YouTrack
+  - Jira
+  - Trello
+  - YandexCloud
+  - TimeWeb
 
 ---
 
 ### My stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LaGGgggg&theme=radical)](https://git.io/streak-stats)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LaGGgggg&theme=tokyonight)](https://git.io/streak-stats)<br>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2028%20mins-blue)
