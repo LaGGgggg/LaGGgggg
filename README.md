@@ -49,7 +49,7 @@ I have worked with:<br>
 
 ### My stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LaGGgggg&theme=tokyonight)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LaGGgggg&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C232%20hrs%2029%20mins-blue)
