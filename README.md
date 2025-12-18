@@ -52,7 +52,7 @@ I have worked with:<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LaGGgggg&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C411%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C417%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
@@ -93,15 +93,15 @@ Sunday                   695 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
 💬 Programming Languages: 
-Python                   21 hrs 8 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.61 % 
-Markdown                 6 hrs 58 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.68 % 
-C++                      5 hrs 11 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.90 % 
-Lua                      1 hr 12 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.25 % 
-Other                    1 hr 4 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.88 % 
+Python                   18 hrs 19 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.59 % 
+C++                      5 hrs 11 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.32 % 
+Markdown                 4 hrs 38 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.58 % 
+Lua                      1 hr 27 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.57 % 
+Other                    57 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.03 % 
 ```
 
 
- Last Updated on 17/12/2025 02:20:53 UTC
+ Last Updated on 18/12/2025 02:21:42 UTC
 <!--END_SECTION:waka-->
 
 ---
