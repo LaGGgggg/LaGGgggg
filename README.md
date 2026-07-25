@@ -14,7 +14,7 @@ Feel free to ask me anything!
 I have worked with:<br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,lua,php,html,css,md,latex,docker,nginx,rabbitmq,graphql,django,fastapi,vue,symfony,laravel,tailwind,redis,postgres,mysql,sqlite,ubuntu,neovim,pycharm,webstorm,vscode,visualstudio,clion,figma,heroku,cmake,jquery,bootstrap,selenium" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,rust,lua,php,html,css,md,latex,docker,nginx,rabbitmq,graphql,django,fastapi,vue,symfony,laravel,tailwind,redis,postgres,mysql,sqlite,ubuntu,neovim,pycharm,webstorm,vscode,visualstudio,clion,figma,heroku,cmake,jquery,bootstrap,selenium" />
   </a>
 </p>
 
@@ -23,6 +23,7 @@ I have worked with:<br>
 - GitHub actions
 - n8n
 - jwt
+- Monkey C
 - Python package managers: uv, poetry
 - Python linters: ruff, black
 - Python packages
@@ -30,6 +31,7 @@ I have worked with:<br>
   - aiogram
   - celery
   - requests
+  - fastapi
   - BeautifulSoup4
   - graphene-django
   - boto3
